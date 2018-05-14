@@ -18,7 +18,6 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'middleman-core', ['>= 3.1']
   gem.add_dependency 'image_optim', '~> 0.26.1'
-  gem.add_dependency 'image_optim_pack', '~> 0.5.0'
 
   gem.add_development_dependency 'appraisal'
   gem.add_development_dependency 'aruba'
